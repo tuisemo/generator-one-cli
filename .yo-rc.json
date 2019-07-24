@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "tuisemo",
+      "authorEmail": "tuisemo@sina.cn",
+      "authorUrl": "https://tuisemo.github.io/"
+    }
+  }
+}

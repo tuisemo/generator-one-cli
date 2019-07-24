@@ -1,8 +1,8 @@
 {
   "name": "generator-one-cli",
   "version": "0.0.0",
-  "description": "",
-  "homepage": "https://github.com/tuisemo/generator-one-cli",
+  "description": "this is a simple project cli for react",
+  "homepage": "",
   "author": {
     "name": "tuisemo",
     "email": "tuisemo@sina.cn",
